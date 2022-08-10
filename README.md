@@ -22,5 +22,6 @@
 ## Langages et outils :
 
 <p align="left">
+<a href="https://www.r-project.org/" target="blank"><img align="center" src="https://yt3.ggpht.com/ta62WMYr99ENnip5onSOX_3z1urU1dxOgJuMR-pCdbMOdaa5vWfUI_ML1IIIDLqmxOWBJRLhTA=s900-c-k-c0x00ffffff-no-rj" height="50" width="50" /></a>
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://www.sparks-formation.com/wp-content/uploads/2020/07/python.png" height="50" width="50" /></a>
-</p>
+</p> 
