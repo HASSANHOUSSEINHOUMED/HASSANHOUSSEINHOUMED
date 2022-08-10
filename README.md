@@ -14,4 +14,6 @@
 
 ## Mes Réseaux :
 
-[![LinkedIn](https://www.ecoris.com/wp-content/uploads/2021/09/Linkedin-logo-2.png)](https://www.linkedin.com/in/hassan-houssein-houmed-7322a2220/)
+<p align="left">
+<a href="https://www.linkedin.com/in/hassan-houssein-houmed-7322a2220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+</p>
