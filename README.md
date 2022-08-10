@@ -17,3 +17,10 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/hassan-houssein-houmed-7322a2220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
+
+
+## Langages et outils :
+
+<p align="left">
+<a href="https://www.python.org/" target="blank"><img align="center" src="https://www.sparks-formation.com/wp-content/uploads/2020/07/python.png" height="50" width="50" /></a>
+</p>
