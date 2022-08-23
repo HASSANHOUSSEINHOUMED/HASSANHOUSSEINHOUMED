@@ -7,7 +7,7 @@
  
 - 🌱 Actuellement, je suis étudiant en Master 2 parcours Ingénierie mathématiques et biostatistique à l'Université de Paris Cité.
 
-- 💞️ Je recherche un stage de fin d'étude à partir du janvier.
+- 💞️ Je recherche un stage de fin d'étude à partir du janvier 2023.
 
 - 📫 N'hesitez pas de me joindre sur  <a href="mailto:hassan.houssein.houmed@gmail.com"> hassan.houssein.houmed@gmail.com </a>
 
