@@ -5,7 +5,7 @@
 
 - 👀 Je suis très interessé par la science des données 
  
-- 🌱 Actuellement, je suis étudiant en Master 2 parcours Ingénierie mathématiques et biostatistique à l'Université de Paris Cité.
+- 🌱 Actuellement, je suis étudiant en Master 2 parcours Ingénierie mathématiques et biostatistique (Data Science) à l'Université de Paris Cité.
 
 - 💞️ Je recherche un stage de fin d'étude à partir du janvier 2023.
 
