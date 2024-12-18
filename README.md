@@ -5,9 +5,7 @@
 
 - 👀 Je suis très interessé par la science des données 
  
-- 🌱 Actuellement, je suis étudiant en Master 2 parcours Ingénierie mathématiques et biostatistique (Data Science) à l'Université de Paris Cité.
-
-- 💞️ Je recherche un stage de fin d'étude à partir du janvier 2023.
+- 🌱 Actuellement, Titulaire d'un Master 2 parcours Ingénierie mathématiques et biostatistique (Data Science) à l'Université de Paris Cité.
 
 - 📫 N'hesitez pas de me joindre sur  <a href="mailto:hassan.houssein.houmed@gmail.com"> hassan.houssein.houmed@gmail.com </a>
 
