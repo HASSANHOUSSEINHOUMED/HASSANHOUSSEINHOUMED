@@ -1,4 +1,4 @@
-<img src="https://le-consultant-digital.com/wp-content/uploads/2023/10/Data-science-9.jpg" width="800" height="300">
+<img src="https://www.wallstreetmojo.com/wp-content/uploads/2022/08/Data-Analytics.jpg" width="800" height="300">
 
 # Hassan HOUSSEIN
 ### Data Scientist | Data Analyst
