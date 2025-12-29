@@ -10,7 +10,7 @@
 
 Bienvenue sur mon GitHub ! 👋 Vous trouverez ici mes projets en **Data Engineering**, **Big Data**, **Machine Learning** et **Data Visualization**.
 
-Actuellement Data Analyst en alternance chez **AXA France** (Direction Data & IA) | Mastère Big Data à IPSSI
+Actuellement Data Analyst en alternance chez **AXA France** (Direction Data & IA Office) | Mastère Big Data à IPSSI
 
 ---
 
@@ -56,7 +56,7 @@ Actuellement Data Analyst en alternance chez **AXA France** (Direction Data & IA
 
 ## 📫 Contact
 
-- **LinkedIn** : [hassan-houssein-houmed](https://linkedin.com/in/hassan-houssein-houmed/)
+- **LinkedIn** : [hassan-HOUSSEIN-HOUMED](https://www.linkedin.com/in/hassan-h-7322a2220/)
 - **Email** : hassan.houssein.houmed@gmail.com
 - **Portfolio** : *À venir*
 - **Localisation** : Saint-Denis, France 🇫🇷
