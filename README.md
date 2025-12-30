@@ -3,7 +3,7 @@
 **Data Analyst**
 
 Bienvenue sur mon GitHub ! Je suis un **Data Analyst** passionné par les données et l'analyse pour supporter la prise de décision. 
-Actuellement en alternance chez **AXA France** (Direction Data & IA), je recherche une opportunité en tant que **Data Analyst**.
+Actuellement en alternance chez **AXA France** (Direction Data & IA Office), je recherche une opportunité en tant que **Data Analyst**.
 
 ---
 
