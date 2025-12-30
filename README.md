@@ -95,25 +95,25 @@ Data Analytics pour infrastructure aéroportuaire.
 
 ✅ **Type de contrat** : CDI ou CDD (dès janvier 2027)  
 ✅ **Poste** : Data Analyst  
-✅ **En entreprises** : Secteur data-driven (Tech, Finance, Santé, Énergie)  
-✅ **En cabinets** : Accenture, Deloitte, EY (CDI/CDD en tant que Data Analyst)
+✅ **Secteurs de préférence** : Tech, Finance, Santé, Énergie (ouvert à d'autres)  
+✅ **En cabinets de consulting** : CDI/CDD en tant que Data Analyst
 
 ---
 
 ## 🌍 Langues
 
-- 🇫🇷 **Français** - Courant
-- 🇬🇧 **Anglais** - Professionnel
-- 🇸🇦 **Arabe** - Professionnel
+- **Français** - Courant
+- **Anglais** - Professionnel
+- **Arabe** - Professionnel
 
 ---
 
 ## 📫 Me Contacter
 
-- **LinkedIn** : [hassan-houssein-houmed](https://www.linkedin.com/in/hassan-houssein-houmed/)
+- **LinkedIn** : [hassan-houssein-houmed](https://www.linkedin.com/in/hassan-h-7322a2220/)
 - **Email** : hassan.houssein.houmed@gmail.com
 - **Portfolio** : *À venir*
-- **Localisation** : Saint-Denis, France 🇫🇷
+- **Localisation** : Saint-Denis, France
 
 ---
 
