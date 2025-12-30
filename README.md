@@ -10,7 +10,7 @@ Actuellement en alternance chez **AXA France** (Direction Data & IA), je recherc
 ## 🎯 À Propos de Moi
 
 - 📍 **Localisation** : Saint-Denis, France
-- 💼 **Alternance** : AXA France (Septembre 2025 - Novembre 2026) - Data Quality & Governance
+- 💼 **Alternance** : AXA France (Septembre 2025 - Novembre 2026) - Direction Data & IA Office
 - 🎓 **Formation** : Mastère 2 Big Data & Intelligence Artificielle - IPSSI Paris
 - 📚 **Expérience** : 2+ ans en Data Analytics, Data Engineering et Machine Learning
 - 🎯 **Objectif** : CDI/CDD en tant que Data Analyst dès janvier 2027
@@ -100,18 +100,6 @@ Data Analytics pour infrastructure aéroportuaire.
 
 ---
 
-## 📈 Statistiques
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HASSANHOUSSEINHOUMED&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HASSANHOUSSEINHOUMED&layout=compact&theme=dark)
-
-</div>
-
----
-
 ## 🌍 Langues
 
 - 🇫🇷 **Français** - Courant
@@ -144,8 +132,5 @@ Je suis ouvert à :
 <div align="center">
 
 **Dernière mise à jour** : Décembre 2025
-
-[![GitHub followers](https://img.shields.io/github/followers/HASSANHOUSSEINHOUMED?style=social)](https://github.com/HASSANHOUSSEINHOUMED)
-[![GitHub stars](https://img.shields.io/github/stars/HASSANHOUSSEINHOUMED?style=social)](https://github.com/HASSANHOUSSEINHOUMED)
 
 </div>
