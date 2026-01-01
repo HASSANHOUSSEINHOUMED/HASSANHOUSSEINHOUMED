@@ -104,7 +104,6 @@ Data Analytics pour infrastructure aéroportuaire.
 
 - **Français** - Courant
 - **Anglais** - Professionnel
-- **Arabe** - Professionnel
 
 ---
 
