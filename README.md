@@ -112,7 +112,6 @@ Data Analytics pour infrastructure aéroportuaire.
 
 - **LinkedIn** : [Hassan HOUSSEIN HOUMED](https://www.linkedin.com/in/hassan-houssein-houmed/)
 - **Email** : hassan.houssein.houmed@gmail.com
-- **Portfolio** : *À venir*
 - **Localisation** : Saint-Denis, France 🇫🇷
 
 ---
