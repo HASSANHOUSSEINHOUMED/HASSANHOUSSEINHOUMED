@@ -95,6 +95,7 @@ Data Analytics pour infrastructure aéroportuaire.
 
 ✅ **Type de contrat** : CDI ou CDD (dès janvier 2027)  
 ✅ **Poste** : Data Analyst  
+✅ **Mobilité** : Partout en France  
 ✅ **Secteurs de préférence** : Tech, Finance, Santé, Énergie (ouvert à d'autres)  
 ✅ **En cabinets de consulting** : CDI/CDD en tant que Data Analyst
 
@@ -109,10 +110,10 @@ Data Analytics pour infrastructure aéroportuaire.
 
 ## 📫 Me Contacter
 
-- **LinkedIn** : [Hassan HOUSSEIN HOUMED](https://www.linkedin.com/in/hassan-h-7322a2220/)
+- **LinkedIn** : [hassan-houssein-houmed](https://www.linkedin.com/in/hassan-houssein-houmed/)
 - **Email** : hassan.houssein.houmed@gmail.com
 - **Portfolio** : *À venir*
-- **Localisation** : Saint-Denis, France
+- **Localisation** : Saint-Denis, France 🇫🇷
 
 ---
 
@@ -130,6 +131,6 @@ Je suis ouvert à :
 
 <div align="center">
 
-**Dernière mise à jour** : Décembre 2025
+**Dernière mise à jour** : Janvier 2026
 
 </div>
