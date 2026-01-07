@@ -2,8 +2,7 @@
 
 **Data Analyst**
 
-Bienvenue sur mon GitHub ! Je suis un **Data Analyst** passionné par les données et l'analyse pour supporter la prise de décision. 
-Actuellement en alternance chez **AXA France** (Direction Data & IA Office), je recherche une opportunité en tant que **Data Analyst**.
+Bienvenue sur mon GitHub ! Je suis un **Data Analyst** passionné par les données et l'analyse pour supporter la prise de décision.
 
 ---
 
@@ -13,7 +12,6 @@ Actuellement en alternance chez **AXA France** (Direction Data & IA Office), je 
 - 💼 **Alternance** : AXA France (Septembre 2025 - Novembre 2026) - Direction Data & IA Office
 - 🎓 **Formation** : Mastère 2 Big Data & Intelligence Artificielle - IPSSI Paris
 - 📚 **Expérience** : 2+ ans en Data Analytics, Data Engineering et Machine Learning
-- 🎯 **Objectif** : CDI/CDD en tant que Data Analyst dès janvier 2027
 
 ---
 
@@ -91,16 +89,6 @@ Data Analytics pour infrastructure aéroportuaire.
 
 ---
 
-## 🎯 Ce Que Je Recherche
-
-✅ **Type de contrat** : CDI ou CDD (dès janvier 2027)  
-✅ **Poste** : Data Analyst  
-✅ **Mobilité** : Partout en France  
-✅ **Secteurs de préférence** : Tech, Finance, Santé, Énergie (ouvert à d'autres)  
-✅ **En cabinets de consulting** : CDI/CDD en tant que Data Analyst
-
----
-
 ## 🌍 Langues
 
 - **Français** - Courant
@@ -119,7 +107,6 @@ Data Analytics pour infrastructure aéroportuaire.
 ## 🚀 Intéressé par une Collaboration ?
 
 Je suis ouvert à :
-- 💼 Opportunités en tant que Data Analyst (CDI/CDD)
 - 🤝 Collaborations sur projets data
 - 💡 Discussions techniques
 - 📚 Échanges professionnels
