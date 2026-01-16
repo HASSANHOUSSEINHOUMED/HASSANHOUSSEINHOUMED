@@ -53,7 +53,6 @@ Bienvenue sur mon GitHub ! Je suis un **Data Analyst** passionné par les donné
 - **Gold** : KPIs Revenue, Analyse RFM, Dashboard exécutif (6 visualisations)
 - **Phases** : 5 phases complètes en équipe (Meissa, Marcus, Hedi, Hassan)
 - **Stack** : PySpark 4.0.1, PostgreSQL, Parquet, Matplotlib/Seaborn
-- **Matière** : Architecture Data Lake, Data Warehouse & Data Lakehouse - Mastère 2
 
 ### 🏆 **[Open_Data](https://github.com/HASSANHOUSSEINHOUMED/Open_Data)**
 Projets complets **Data Analytics + Visualization + IA** sur données publiques françaises.
