@@ -11,7 +11,7 @@ Bienvenue sur mon GitHub ! Je suis un **Data Analyst** passionné par les donné
 - 📍 **Localisation** : Saint-Denis, France
 - 💼 **Alternance** : AXA France (Septembre 2025 - Novembre 2026) - Direction Data & IA Office
 - 🎓 **Formation** : Mastère 2 Big Data & Intelligence Artificielle - IPSSI Paris
-- 📚 **Expérience** : 2+ ans en Data Analytics, Data Engineering et Machine Learning
+- 📚 **Expérience** : 2+ ans en Data Analytics, Big Data et Machine Learning
 
 ---
 
@@ -45,6 +45,15 @@ Bienvenue sur mon GitHub ! Je suis un **Data Analyst** passionné par les donné
 ---
 
 ## 📂 Mes Projets Clés
+
+### 🏗️ **[Data_Lake_Architecture](https://github.com/HASSANHOUSSEINHOUMED/Data_Lake_Architecture)**
+**Pipeline Data Lake complet** - Architecture Medallion (Bronze → Silver → Gold)
+- **Bronze** : Ingestion PostgreSQL (7 tables, métadonnées techniques)
+- **Silver** : Transformations dimensionnelles (Dim_Customers, Dim_Products, Fact_Orders)
+- **Gold** : KPIs Revenue, Analyse RFM, Dashboard exécutif (6 visualisations)
+- **Phases** : 5 phases complètes en équipe (Meissa, Marcus, Hedi, Hassan)
+- **Stack** : PySpark 4.0.1, PostgreSQL, Parquet, Matplotlib/Seaborn
+- **Matière** : Architecture Data Lake, Data Warehouse & Data Lakehouse - Mastère 2
 
 ### 🏆 **[Open_Data](https://github.com/HASSANHOUSSEINHOUMED/Open_Data)**
 Projets complets **Data Analytics + Visualization + IA** sur données publiques françaises.
@@ -80,7 +89,7 @@ Data Analytics pour infrastructure aéroportuaire.
 
 | Domaine | Expertise | Exemple |
 |---------|-----------|---------|
-| **Data Analytics** | Dashboards, KPIs, Insights | SafeCity, HADOOP_SPARK |
+| **Data Analytics** | Dashboards, KPIs, Insights | SafeCity, HADOOP_SPARK, Data_Lake_Architecture |
 | **Data Visualization** | Power BI, Streamlit, Plotly | Open_Data projects |
 | **Machine Learning** | Classification, Analytics | INRAE CNN, ADP NLP |
 | **Data Quality** | Governance, Validation | AXA KYC production |
