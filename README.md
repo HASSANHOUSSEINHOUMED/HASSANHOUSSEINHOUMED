@@ -2,7 +2,7 @@
 
 **Data Analyst**
 
-Bienvenue sur mon GitHub ! Je suis un **Data Analyst** passionné par les données et l'analyse pour supporter la prise de décision.
+Bienvenue sur mon GitHub ! Je suis un **Data Analyst** passionné par les données, l'IA et l'analyse pour supporter la prise de décision.
 
 ---
 
@@ -11,7 +11,7 @@ Bienvenue sur mon GitHub ! Je suis un **Data Analyst** passionné par les donné
 - 📍 **Localisation** : Saint-Denis, France
 - 💼 **Alternance** : AXA France (Septembre 2025 - Novembre 2026) - Direction Data & IA Office
 - 🎓 **Formation** : Mastère 2 Big Data & Intelligence Artificielle - IPSSI Paris
-- 📚 **Expérience** : 2+ ans en Data Analytics, Big Data et Machine Learning
+- 📚 **Expérience** : 2+ ans en Data Analytics, Big Data, Machine Learning et AI Agents
 
 ---
 
@@ -29,6 +29,11 @@ Bienvenue sur mon GitHub ! Je suis un **Data Analyst** passionné par les donné
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
 
+### **AI & LLM**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
 ### **Data Visualization & BI**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -45,6 +50,12 @@ Bienvenue sur mon GitHub ! Je suis un **Data Analyst** passionné par les donné
 ---
 
 ## 📂 Mes Projets Clés
+
+### 🎭 **[Simulateur_Arnaque](https://github.com/HASSANHOUSSEINHOUMED/Simulateur_Arnaque)**
+**Simulateur d'arnaque téléphonique avec agents LLM orchestrés**
+- **Agents** : 3 agents LLM orchestrés (Victime, Directeur, Modérateur Audience)
+- **Features** : 6 outils audio (@tool), prompt engineering avancé, résistance intelligente
+- **Stack** : LangChain, OpenAI/Vertex AI, Python, Multi-Agents
 
 ### 🏗️ **[Data_Lake_Architecture](https://github.com/HASSANHOUSSEINHOUMED/Data_Lake_Architecture)**
 **Pipeline Data Lake complet** - Architecture Medallion (Bronze → Silver → Gold)
@@ -88,6 +99,7 @@ Data Analytics pour infrastructure aéroportuaire.
 
 | Domaine | Expertise | Exemple |
 |---------|-----------|---------|
+| **AI & LLM** | Multi-Agents, Prompt Engineering, Tools/MCP | Simulateur_Arnaque |
 | **Data Analytics** | Dashboards, KPIs, Insights | SafeCity, HADOOP_SPARK, Data_Lake_Architecture |
 | **Data Visualization** | Power BI, Streamlit, Plotly | Open_Data projects |
 | **Machine Learning** | Classification, Analytics | INRAE CNN, ADP NLP |
@@ -115,7 +127,7 @@ Data Analytics pour infrastructure aéroportuaire.
 ## 🚀 Intéressé par une Collaboration ?
 
 Je suis ouvert à :
-- 🤝 Collaborations sur projets data
+- 🤝 Collaborations sur projets data & IA
 - 💡 Discussions techniques
 - 📚 Échanges professionnels
 
@@ -125,6 +137,6 @@ Je suis ouvert à :
 
 <div align="center">
 
-**Dernière mise à jour** : Janvier 2026
+**Dernière mise à jour** : Février 2026
 
 </div>
