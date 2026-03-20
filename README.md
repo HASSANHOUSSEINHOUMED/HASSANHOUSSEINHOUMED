@@ -57,6 +57,7 @@
 | **Machine Learning** — Classification, NLP, Deep Learning | INRAE CNN, ADP NLP |
 | **Data Quality** — Gouvernance, Validation | AXA KYC production |
 | **Big Data** — PySpark, Hive, BigQuery | ETL pipelines multi-sources |
+| **Data Engineering** — Data Lake, OCR, Validation ML, Microservices | Hackathon 2026 — DocuFlow |
 
 ---
 
