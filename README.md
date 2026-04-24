@@ -9,7 +9,7 @@
 - 📍 **Localisation** : Saint-Denis, France
 - 💼 **Alternance** : AXA France — Direction Data & IA Office *(Sept. 2025 – Nov. 2026)*
 - 🎓 **Formation** : Mastère 2 Big Data & Intelligence Artificielle — IPSSI Paris
-- 📚 **Expérience** : 2+ ans en Data Analytics, Big Data, Machine Learning et AI Agents
+- 📚 **Expérience** : 2+ ans en Data Analytics, Big Data, Machine Learning, AI Agents et Data Engineering
 
 ---
 
@@ -27,12 +27,18 @@
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
 
+### Data Orchestration & Engineering
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-0F5DB8?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ### AI & LLM
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### Data Visualization & BI
+### Data Visualization & Monitoring
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -51,13 +57,14 @@
 
 | Domaine | Exemple |
 |---------|---------|
+| **Data Orchestration** — Apache Airflow, DAGs, Custom Hooks & Operators | SmartCity IoT, pipelines batch/streaming |
 | **AI & LLM** — Multi-Agents, Prompt Engineering, Tools/MCP | Simulateur d'arnaque LLM |
 | **Data Analytics** — Dashboards, KPIs, Insights | SafeCity, HADOOP_SPARK, Data Lake |
-| **Data Visualization** — Power BI, Streamlit, Plotly | Open Data projects |
+| **Data Visualization** — Power BI, Streamlit, Plotly, Grafana | Open Data projects, Real-time Monitoring |
 | **Machine Learning** — Classification, NLP, Deep Learning | INRAE CNN, ADP NLP |
 | **Data Quality** — Gouvernance, Validation | AXA KYC production |
 | **Big Data** — PySpark, Hive, BigQuery | ETL pipelines multi-sources |
-| **Data Engineering** — Data Lake, OCR, Validation ML, Microservices | Hackathon 2026 — DocuFlow |
+| **Data Engineering** — Data Lake, ETL/ELT, Airflow, TimescaleDB, Validation ML, Microservices | Hackathon 2026 — DocuFlow, SmartCity |
 
 ---
 
@@ -79,6 +86,6 @@
 
 *Ouvert aux collaborations, échanges techniques et opportunités professionnelles.*
 
-**Dernière mise à jour : Mars 2026**
+**Dernière mise à jour : Avril 2026**
 
 </div>
