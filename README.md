@@ -8,7 +8,7 @@
 
 - 📍 **Localisation** : Saint-Denis, France
 - 💼 **Alternance** : AXA France — Direction Data & IA Office *(Sept. 2025 – Nov. 2026)*
-- 🎓 **Formation** : Mastère 2 Big Data & Intelligence Artificielle — IPSSI Paris
+- 🎓 **Formation** : Mastère Big Data & Intelligence Artificielle — IPSSI Paris 2026
 - 📚 **Expérience** : 2+ ans en Data Analytics, Big Data, Machine Learning, AI Agents et Data Engineering
 
 ---
@@ -35,6 +35,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Google%20Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
 
 ### Data Visualization & Monitoring
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -44,12 +45,14 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### Infrastructure & Outils
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PyArrow](https://img.shields.io/badge/PyArrow-blue?style=for-the-badge)
+![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge)
 
 ---
 
@@ -57,14 +60,14 @@
 
 | Domaine | Exemple |
 |---------|---------|
+| **Machine Learning & Prédiction** — XGBoost, Random Forest, Scikit-learn | RiskRadar — 29,5M entreprises |
 | **Data Orchestration** — Apache Airflow, DAGs, Custom Hooks & Operators | SmartCity IoT, pipelines batch/streaming |
 | **AI & LLM** — Multi-Agents, Prompt Engineering, Tools/MCP | Simulateur d'arnaque LLM |
 | **Data Analytics** — Dashboards, KPIs, Insights | SafeCity, HADOOP_SPARK, Data Lake |
-| **Data Visualization** — Power BI, Streamlit, Plotly, Grafana | Open Data projects, Real-time Monitoring |
-| **Machine Learning** — Classification, NLP, Deep Learning | INRAE CNN, ADP NLP |
-| **Data Quality** — Gouvernance, Validation | AXA KYC production |
+| **Data Visualization** — Power BI, Streamlit, Plotly, Grafana | Open Data, Real-time Monitoring |
 | **Big Data** — PySpark, Hive, BigQuery | ETL pipelines multi-sources |
-| **Data Engineering** — Data Lake, ETL/ELT, Airflow, TimescaleDB, Validation ML, Microservices | Hackathon 2026 — DocuFlow, SmartCity |
+| **Data Engineering** — Data Lake Medallion, ETL/ELT, TimescaleDB | Hackathon 2026 — DocuFlow, SmartCity |
+| **Data Quality** — Gouvernance, Validation, Pipeline robuste | AXA KYC production |
 
 ---
 
