@@ -1,16 +1,15 @@
 # 👋 Hassan HOUSSEIN HOUMED
 
-**Data Analyst / Business Analyst**
+**Data Analyst**
 
 ---
 
 ## 🎯 À Propos de Moi
 
 - 📍 **Localisation** : Saint-Denis, France
-- 💼 **Alternance** : AXA France (Septembre 2025 - Novembre 2026) - Direction Data & IA Office
 - 🎓 **Formation** : Mastère 2 Big Data & Intelligence Artificielle - IPSSI Paris
 - 📚 **Expérience** : 2+ ans en Data Analytics, Data Engineering, Machine Learning et Analyse Fonctionnelle
-- 🤝 **Spécialité** : Profil hybride Data Analyst / Business Analyst - Collaboration métier & technique
+- 🤝 **Spécialité** : Data Analyst avec expertise en analyse fonctionnelle et collaboration métier
 
 ---
 
@@ -96,6 +95,6 @@
 
 *Ouvert aux collaborations, échanges techniques et opportunités professionnelles.*
 
-**Dernière mise à jour : Avril 2026**
+**Dernière mise à jour : Octobre 2026**
 
 </div>
